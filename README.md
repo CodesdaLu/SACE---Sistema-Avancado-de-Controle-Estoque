@@ -29,6 +29,10 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 O **SACE** foi desenvolvido com foco no gerenciamento de estoques e inclui as seguintes funcionalidades:
 
+### ✅ **Login**
+- Possibilidade de cadastro
+- Realizar login para entrar no sistema
+
 ### ✅ **Cadastro de Produtos**
 - Permite registrar novos produtos com as seguintes informações:
   - Nome do produto.
