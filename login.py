@@ -3,7 +3,7 @@ from tkinter import messagebox
 from main import *
 from pymongo import MongoClient
 
-con = MongoClient('mongodb+srv://lcarms93:ZE7OlLBfBFX4gL6q@login.w2urk.mongodb.net/') 
+con = MongoClient('mongodb+srv://<login>:<password>@login.w2urk.mongodb.net/') 
 db=con.get_database("Login")
 collection =db.get_collection('contatos')
 
